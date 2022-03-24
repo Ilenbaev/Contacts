@@ -1,0 +1,15 @@
+.main-modale {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgb(0, 0, 0, 0.5);
+}
+.inner-modale {
+  width: 300px;
+  height: 220px;
+  background-color: white;
+  margin: 150px auto;
+  border-radius: 10px;
+}
